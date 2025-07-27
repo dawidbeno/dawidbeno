@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software engineer with experience in developing embedded systems based on C/C++ and Linux, supported by automated tests and DevOps
+I'm a Software Engineer specializing in the complete lifecycle of application development, with a strong focus on embedded systems. I'm passionate about writing clean, high-quality code and building robust, automated testing environments.
